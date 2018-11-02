@@ -34,3 +34,5 @@
 *bin*
 *.vs*
 *obj/*
+*.csproj*
+*.sln
